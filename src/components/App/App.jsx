@@ -25,6 +25,7 @@ export class App extends Component {
         contacts: [data, ...contacts],
       }));
     }
+    
   };
 
   deleteContacts = contactId => {
