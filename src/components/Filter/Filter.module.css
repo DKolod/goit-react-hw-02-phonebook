@@ -4,6 +4,7 @@
 }
 
 .label input {
+    /* padding: auto; */
     margin-top: 10px;
     width: 180px;
     height: 20px;
